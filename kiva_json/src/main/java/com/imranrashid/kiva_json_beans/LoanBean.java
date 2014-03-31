@@ -14,5 +14,5 @@ public class LoanBean {
     public int loan_amount;
     public Date funded_date;
     public Date paid_date;
-    public String translator;
+    public Translator translator;
 }
